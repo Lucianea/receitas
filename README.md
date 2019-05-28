@@ -25,3 +25,10 @@ Dentro dele tem a versão do python
 ##Quarto criar um script com a função
 
 Neste caso testetabela
+
+#Consulte uma receita no nosso aplicativo
+
+Escolha seus ingredientes e mande o resultado da sua receita para nossa equipe experimentar.
+
+
+https://receitafacil.herokuapp.com/
